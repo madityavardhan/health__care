@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44427756260",
+    "project_id": "flutter-login-f6886",
+    "storage_bucket": "flutter-login-f6886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44427756260:android:f3e8f1faf7ff25a66da2f1",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiiQlWoWKXkcCWgs6b0IV3gxyY3orCpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
